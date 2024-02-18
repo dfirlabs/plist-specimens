@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # Script to generate property list (plist) test files
-# Requires MacOS
+# Requires MacOS and plutil
 
 EXIT_SUCCESS=0;
 EXIT_FAILURE=1;
